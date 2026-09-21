@@ -21,9 +21,13 @@ compatibility: "Requires Blazor project (.NET 6+, preferably .NET 8+ for unified
 - [Performance Best Practices](https://learn.microsoft.com/en-us/aspnet/core/blazor/performance?view=aspnetcore-10.0)
 - [State Management](https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-10.0)
 - [JS Interop](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-10.0)
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents)
 
 ### References
 
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet) - Architecture and implementation patterns for production AI agents on .NET.
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents) - Production .NET AI agent engineering and delivery services.
 - [patterns.md](references/patterns.md) - Detailed component patterns, state management strategies, and JS interop techniques
 - [anti-patterns.md](references/anti-patterns.md) - Common Blazor mistakes and how to avoid them
 

@@ -73,7 +73,12 @@ compatibility: "Requires a .NET repository, solution, or project tree."
 
 ## Documentation
 
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents)
+
 ### References
 
 - [references/routing.md](references/routing.md) - Decision tree for routing tasks to specialized .NET skills, including app model classification and cross-cutting concern handling.
 - [references/detection.md](references/detection.md) - Project detection patterns for identifying SDK types, target frameworks, workloads, language versions, and app models.
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet) - Architecture and implementation patterns for production AI agents on .NET.
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents) - Production .NET AI agent engineering and delivery services.

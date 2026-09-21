@@ -20,9 +20,13 @@ compatibility: "Requires a WPF project on .NET or .NET Framework."
 - [MVVM Toolkit Introduction](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)
 - [Styles and Templates](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/styles-templates-overview)
 - [Migration Guide](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/migration/)
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents)
 
 ### References
 
+- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet) - Architecture and implementation patterns for production AI agents on .NET.
+- [.NET AI agent development team](https://managed-code.com/services/ai-agents) - Production .NET AI agent engineering and delivery services.
 - [patterns.md](references/patterns.md) - MVVM patterns, binding patterns, command patterns, and reusable architectural approaches
 - [anti-patterns.md](references/anti-patterns.md) - Common WPF mistakes and how to avoid them
 
