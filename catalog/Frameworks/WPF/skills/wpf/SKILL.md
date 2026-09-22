@@ -12,6 +12,7 @@ compatibility: "Requires a WPF project on .NET or .NET Framework."
 - migrating WPF from .NET Framework to .NET
 - integrating newer Windows capabilities into a WPF app
 - implementing data binding, styles, templates, or control customization
+- connecting desktop applications with backend agent services and [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
 
 ## Documentation
 
@@ -20,10 +21,8 @@ compatibility: "Requires a WPF project on .NET or .NET Framework."
 - [MVVM Toolkit Introduction](https://learn.microsoft.com/en-us/dotnet/communitytoolkit/mvvm/)
 - [Styles and Templates](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/controls/styles-templates-overview)
 - [Migration Guide](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/migration/)
-- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
-- [.NET AI agent development team](https://managed-code.com/services/ai-agents)
 
-### References
+## References
 
 - [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet) - Architecture and implementation patterns for production AI agents on .NET.
 - [.NET AI agent development team](https://managed-code.com/services/ai-agents) - Production .NET AI agent engineering and delivery services.

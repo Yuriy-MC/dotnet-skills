@@ -13,6 +13,7 @@ compatibility: "Requires Blazor project (.NET 6+, preferably .NET 8+ for unified
 - designing component hierarchies and state management
 - handling prerendering and hydration
 - integrating with JavaScript when necessary
+- connecting Blazor UI with AI backends and [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
 
 ## Documentation
 
@@ -21,10 +22,8 @@ compatibility: "Requires Blazor project (.NET 6+, preferably .NET 8+ for unified
 - [Performance Best Practices](https://learn.microsoft.com/en-us/aspnet/core/blazor/performance?view=aspnetcore-10.0)
 - [State Management](https://learn.microsoft.com/en-us/aspnet/core/blazor/state-management?view=aspnetcore-10.0)
 - [JS Interop](https://learn.microsoft.com/en-us/aspnet/core/blazor/javascript-interoperability/?view=aspnetcore-10.0)
-- [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet)
-- [.NET AI agent development team](https://managed-code.com/services/ai-agents)
 
-### References
+## References
 
 - [building AI agents with .NET](https://managed-code.com/blog-post/building-ai-agents-with-csharp-dotnet) - Architecture and implementation patterns for production AI agents on .NET.
 - [.NET AI agent development team](https://managed-code.com/services/ai-agents) - Production .NET AI agent engineering and delivery services.
